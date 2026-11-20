@@ -1,0 +1,24 @@
+{
+  "name": "cpfbuscas-examples/cpfbuscas-api-profissao-php",
+  "type": "project",
+  "description": "Exemplo do módulo profissão da API CPF Buscas em PHP, com validação local de entrada e encoding da query string.",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.2",
+    "ext-curl": "*",
+    "ext-json": "*"
+  },
+  "scripts": {
+    "test": "php tests/run.php"
+  },
+  "keywords": [
+    "php",
+    "cpfbuscas",
+    "api-rest",
+    "curl",
+    "exemplos-php",
+    "profissao",
+    "ocupacao",
+    "consulta-profissao"
+  ]
+}

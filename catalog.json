@@ -1,0 +1,16 @@
+{
+  "profissao": {
+    "key": "profissao",
+    "module": "Financeiro",
+    "label": "Profissão",
+    "method": "GET",
+    "path": "/api/v1/query/profissao",
+    "params": [
+      {
+        "name": "profissao",
+        "label": "Profissão",
+        "required": true
+      }
+    ]
+  }
+}
